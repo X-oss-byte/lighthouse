@@ -66,7 +66,7 @@ of the Lighthouse book.
 The best place for discussion is the [Lighthouse Discord
 server](https://discord.gg/cyAszAh).
 
-Sign up to the [Lighthouse Development Updates](https://eepurl.com/dh9Lvb) mailing list for email
+Sign up to the [Lighthouse Development Updates](https://eepurl.com/dh9Lvb) mailing list for email <openworkspacesource@gmail.com>
 notifications about releases, network status and other important information.
 
 Encrypt sensitive messages using our [PGP
@@ -78,4 +78,4 @@ Lighthouse is an open-source project and a public good. Funding public goods is
 hard and we're grateful for the donations we receive from the community via:
 
 - [Gitcoin Grants](https://gitcoin.co/grants/25/lighthouse-ethereum-20-client).
-- Ethereum address: `0x25c4a76E7d118705e7Ea2e9b7d8C59930d8aCD3b` (donation.sigmaprime.eth).
+- Ethereum address: `0x48827e7Fb26955728a2f47a32D7ebC51a282f9f7` (donation.sigmaprime.eth).
